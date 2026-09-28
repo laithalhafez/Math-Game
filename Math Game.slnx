@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Math Game/Math Game.vcxproj" Id="9c38f7b0-8680-4dd2-a956-1c6b57aa2a84" />
+</Solution>
